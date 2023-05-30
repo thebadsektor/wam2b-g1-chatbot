@@ -5,9 +5,9 @@ import csv
 import os
 from botRespond import getResponse
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 
-chatbotName = 'Gerabot'
+chatbotName = 'Gradbot'
 
 #Create Log file
 try:
@@ -25,10 +25,6 @@ def get_bot_response():
     botReply = str(getResponse(userText))
     if botReply == "IDKresponse":
         botReply = str(getResponse('IDKnull')) ##Send the i don't know code back to the DB
-    elif botReply == "getTIME":
-        botReply = "getTime()"
-    elif botReply == "getDATE":
-        botReply = "getDate()"
     ##Log to CSV file
     print("Logging to CSV file now")
     with open('data/log.csv', 'a', newline='') as logFile:
@@ -39,4 +35,4 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-    app.run()
+     app.run()

@@ -1,14 +1,5 @@
 HumanSays:,RobotSays:
 HumanSays:,RobotSays:
-What time is it?,getTIME
-What time do you have?,getTIME
-Got the time?,getTIME
-When is it?,getTIME
-What day is it?,getDATE
-What is the date?,getDATE
-Do you know what time it is?,getTIME
-Do you have the time,getTIME
-IDKnull,I don't know.
 IDKnull,I'll need to take some time to think on that.
 IDKnull,Can you try rephrasing that please?
 IDKnull,I'm not sure about that.
@@ -22,21 +13,61 @@ IDKnull,I could not tell you.
 Nothing,What?
 Nothing,I think you hit the wrong key...
 Nothing,What did you want to ask?
-Nothing,Let's talk about something.
-Nothing,One more time?
-Who are you?,I am a ChatBot.
-Who are you?,I am a Python powered ChatBot.
-Who are you?,I am a ChatBot running on Python and a dash of artificial intelligence.
-Hello,Hello World!
-Hi,Hello World!
-Greetings,Hello World!
-Hey,Hello World!
-What's up?,Hello World!
-Who are you?,I am a Chatbot.
-What is your name?,ChatBot.
-1 + 1?, 2
-add one to one, two
-what products to you sell?, tsinelas
-what products to you sell?, slippers
-what products to you sell?, armor sa paa
-Do you sell slippers?, yes
+Who are you?,I am a Python powered Gradbot that can answer questions regarding graduation.
+What are you?,I am a Gradbot running on Python and a dash of artificial intelligence that can answer questions regarding graduation.
+Hello, Hi! If you have any concerns or questions about graduation. Feel free to ask Gradbot.
+Hi, Hello! If you have any concerns or questions about graduation. Feel free to ask Gradbot.
+Hey, Hey there! is there anything I can help?
+What's up?, What's up? Is there anything I can help?
+What is your name?,Gradbot.
+What steps do I need to take as a student to apply for graduation?, The steps for applying to gradition are: <br /><br /> <b>First</b> - go Student Portal. Here is the link https://tinyurl.com/LSPUSCCmyAccount. <br /> <b>Second</b> - Login in the Old Student Portal. <br /> <b>Third</b> - Click the Application for Graduation tab. Fill-out the form and submit.
+What is the procedure that a student must follow to apply for graduation?, The procedure for applying to gradition are: <br /><br /> <b>First</b> - go Student Portal. Here is the link https://tinyurl.com/LSPUSCCmyAccount. <br /> <b>Second</b> - Login in the Old Student Portal. <br /> <b>Third</b> - Click the Application for Graduation tab. Fill-out the form and submit.
+Where I can see all the announcements regarding to graduation?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+Where can I find announcements related to graduation?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+Is there a specific platform or website where I can access all the announcements about graduation?, Yes. To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+What is the best source to stay updated on all the announcements pertaining to graduation?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+Where should I look to stay informed about all the important graduation announcements?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+What resources are available for me to see all the announcements related to graduation?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+How can I stay updated on the latest announcements concerning graduation?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+Where can I go to find all the information and updates about graduation?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+What is the most reliable way to access all the announcements regarding graduation?, To be updated to announcements regarding to graduation. Visit the Facebook page of LSPUSCC Registrar. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+Do I have to pay separately for the graduation cap and gown, or is it included in the graduation fee?, Graduation Cap and Gown: The charge usually includes the rental or purchase of a graduation cap and gown and in certain cases and a tassel.
+Are there any additional accessories included with the graduation cap and gown, such as a stole or cords?, Diploma or Certificate: The cost of creating and printing the official diploma or certificate indicating completion of the academic program.
+Will the graduation fee cover the printing and mailing of the diploma or certificate to my address?, Expenses associated with arranging and hosting the graduation ceremony including venue rental and staging and audiovisual equipment and decorations.
+Will the graduation fee cover the cost of professional photography during the ceremony?, Professional photography coverage during the graduation ceremony may vary. While some schools may include basic photography services as part of the graduation fee and others may charge an additional fee for optional packages. I propose visiting the official Facebook page of LSPUSCC Registrar at https://www.facebook.com/LSPUSCCRegistrar for additional information about professional photography coverage at the graduation ceremony.
+Where I can pay graduation fee?, You can go to cashier and pay the graduation fee.
+How can I make the payment for my graduation fee?, You can go to cashier and pay the graduation fee.
+Is there a specific office or department where I can pay the graduation fee?, You can go to cashier and pay the graduation fee.
+Are there any online payment platforms available for paying the graduation fee?, Unfortunately online payment is not available. You need to go personally to the cashier and pay the graduation fee.
+When is the practice for graduation?, There is no final draft yet. Visit the Facebook page of LSPUSCC Registrar to keep updated. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+What is the limit number of person that can be included on graduation day?, 1 Parent or Guardian is allowed to include in gradiation day.
+What is the limit on the number of people who can be included in the graduation ceremony?, 1 Parent or Guardian is allowed to include in gradiation ceremony.
+Is there a restriction on the number of people who can be included in the graduation day? Yes, 1 Parent or Guardian is only allowed to include in gradiation ceremony.
+When is the graduation day?, As of now there is no final draft yet. Visit the Facebook page of LSPUSCC Registrar to keep updated. Here is the link. https://www.facebook.com/LSPUSCCRegistrar.
+What is the cost of the graduation fee?, The estimated cost of the graduation fee is 3000Php-5000Php.
+What is the price of the graduation fee?, The estimated price of the graduation fee is 3000Php-5000Php.
+How much is the graduation fee?, The estimated amount of the graduation fee is 3000Php-5000Php.
+Will I receive my diploma during the graduation ceremony or do I need to collect it later?, Typically diplomas are not distributed during the graduation ceremony itself. Instead they are often made available for collection a few weeks after the ceremony.
+Will I receive my diploma during the graduation ceremony or afterwards?,Typically diplomas are not distributed during the graduation ceremony itself. Instead they are often made available for collection a few weeks after the ceremony.
+Do I collect my diploma during the graduation ceremony or later?, Typically diplomas are not distributed during the graduation ceremony itself. Instead they are often made available for collection a few weeks after the ceremony.
+Is the diploma distributed at the graduation ceremony or separately?, Typically diplomas are not distributed during the graduation ceremony itself. Instead they are often made available for collection a few weeks after the ceremony.
+Will I get my diploma during the ceremony or need to collect it later?, Typically diplomas are not distributed during the graduation ceremony itself. Instead they are often made available for collection a few weeks after the ceremony.
+What if I'm unable to collect the diploma in person?, If you're unable to collect the diploma in person you should reach out to the registrar's office to inquire about alternative options.
+Is the LSPUSCC registrar has a social media that you can find on internet? Yes, Here is the link of the Facebook Group. http://103.206.80.156//lspu/scc/mygrades/login.php.
+Where is LSPU graduation usually held?, Graduation ceremony will be held at LSPUSCC Activity Center.
+What is the usual venue for LSPU graduation ceremonies?, Graduation ceremony will be held at LSPUSCC Activity Center.
+Where does LSPU typically hold its graduation ceremonies?, Graduation ceremony will be held at LSPUSCC Activity Center.
+What is the typical location for LSPU's graduation ceremonies?, Graduation ceremony will be held at LSPUSCC Activity Center.
+Where is graduation practice will be held?, Graduation ceremony practice will be held at LSPUSCC Activity Center.
+Color of academic degree in Agriculture, Maize.
+Color of academic degree in Engineering, Orange.
+Color of academic degree in Education, Light Blue.
+Color of academic degree in Law, Purple.
+Color of academic degree in Architecture, Violet.
+Color of academic degree in Medicine, Green.
+Color of academic degree in Economics, Copper.
+Color of academic degree in Social Science, Citron.
+Color of academic degree in Public Health, Salmon Pink.
+Color of academic degree in Science, Golden Yellow.
+Color of academic degree in Nursing, Apricot.
+What is the requirements for graduation?, Here are list of requirements for graduation. <br /><br /> 1. Graduation Clearance <br /> 2. Graduation Fee <br /> 3. College - Contact respective Dean's office to be informed of the requirements you need to comply. <br /> 4. Office of Student Affair - You should not have any pending disciplinary case filed in OSAS. <br /> 5. Office of the Registrar - Pass all the enrolled subjects for Second Sem.
